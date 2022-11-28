@@ -1,0 +1,23 @@
+body
+{
+    background-color: cadetblue;
+  
+}
+
+.data
+{
+    text-align: center;
+}
+
+.heading
+{
+    margin: 40px;
+
+}
+
+.button
+{
+    margin: 80px;
+    padding: 30px 100px;
+}
+
